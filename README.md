@@ -19,4 +19,24 @@ This is a Flutter Books Shopping App . The app demonstrates an interactive UI wi
 - Fully asset-based images for offline capability.
 
 ## Project Structure
+shopping_app/
+├── android/
+├── assets/
+|  ├── fonts/
+│  └── images/ 
+├── ios/
+├── linux/
+├── macos/
+├──web/
+├──windows/
+├── lib/
+│ ├── main.dart
+│ ├── screens/
+│ │ ├── HomeScreen.dart
+│ │ ├── SignUpScreen.dart
+│ │ ├── signin_screen.dart
+│ │ └── WelcomeScreen.dart
+├── test/
+├── pubspec.yaml 
+├── README.md
 
