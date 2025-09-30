@@ -42,7 +42,7 @@ shopping_app/
 
 ## Setup instructions
 1. **Clone the repository**
-   git clone <repository-url>
+   git clone <https://github.com/EngySherif/shopping_application.git>
    cd shopping_app
 2.**Install dependencies**
    flutter pub get
