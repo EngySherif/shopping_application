@@ -40,3 +40,14 @@ shopping_app/
 ├── pubspec.yaml 
 ├── README.md
 
+## Setup instructions
+1. **Clone the repository**
+   git clone <repository-url>
+   cd shopping_app
+2.**Install dependencies**
+   flutter pub get
+3.**Add Assets**
+   refer to pubspec.yaml
+4.**Run the app**
+   flutter run   
+
