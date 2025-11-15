@@ -19,6 +19,7 @@ This is a Flutter Books Shopping App . The app demonstrates an interactive UI wi
 - Fully asset-based images for offline capability.
 
 ## Project Structure
+```
 shopping_app/
 ├── android/
 ├── assets/
@@ -39,7 +40,7 @@ shopping_app/
 ├── test/
 ├── pubspec.yaml 
 ├── README.md
-
+```
 ## Setup instructions
 1. **Clone the repository**
    git clone <https://github.com/EngySherif/shopping_application.git>
